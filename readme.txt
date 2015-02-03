@@ -1,0 +1,1 @@
+Simple Accounting 4 Light Transaction (SALT)
